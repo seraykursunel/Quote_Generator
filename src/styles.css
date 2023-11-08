@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #ffda1f;
+  margin: 100px;
+  padding: 30px;
+}
+
+h4 {
+  font-weight: lighter;
+}
+
+button {
+  background-color: #fff;
+  border-color: #dbdbdb;
+  border-width: 2px;
+  color: #363636;
+  cursor: pointer;
+  padding: calc(0.5em - 1px) 1em;
+}
